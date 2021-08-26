@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Cadastrar em BD</title>
+	<title>Cadastrar Livros</title>
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
@@ -17,7 +17,7 @@
 </header>
 <div class="col-10 offset-1 bg-white corpo">
 <br>
-<center><h1 class="titulo">Cadastro de Livros</h1></center>
+<center><h1 class="titulo"><strong class="logoMenu">Cadastro de <b style="color: #00C851;">Livros</b></strong></h1></center>
 <br>
 <form method="post">
 	<div class="form-group">
